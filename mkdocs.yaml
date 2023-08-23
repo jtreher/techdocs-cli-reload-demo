@@ -1,0 +1,3 @@
+site_name: Bug Example
+plugins:
+  - techdocs-core

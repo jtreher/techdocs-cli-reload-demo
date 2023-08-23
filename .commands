@@ -1,0 +1,6 @@
+techdocs-cli build -v
+techdocs-cli serve -v
+
+localhost:3000 will load, but not hot reload on change
+
+While serve is still active, localhost:8000 will render basic mkdocs and hot reload on change.
